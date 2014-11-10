@@ -1,4 +1,4 @@
 NumKabyle
 =========
-
-numérisation de la langue Kabyle
+numerisation de la langue Kabyle
+une numerisation qui se passe bien 
